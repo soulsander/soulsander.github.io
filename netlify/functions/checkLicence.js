@@ -1,8 +1,12 @@
 exports.handler = async (event) => {
     const licences = [
-        "1234",
-        "5678",
-        "9999"
+        "783462953",
+        "554649131",
+        "984946543",
+        "645674275",
+        "575984461",
+        "984654953",
+        "565167212",
     ];
 
     const id = event.queryStringParameters.id;
